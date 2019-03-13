@@ -11,7 +11,6 @@ with XML files and formatting.
 
 ## Building and Running Instructions
 
-The program has practically no building needed.
 The easiest way to run the program through the command line is
 and have it print the data as a JSON array is,
 

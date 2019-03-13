@@ -27,8 +27,8 @@ python main.py XML
 ```
 
 The following command is what I used to test my program through the 
-jsonlint validator. Simply piping the original command that tells the
-program to output a json array to the jsonlint validator.
+jsonlint validator. All you have to do is pipe the original command 
+to the jsonlint validator.
 
 ```
 python main.py | jsonlint
